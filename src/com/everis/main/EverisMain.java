@@ -22,6 +22,8 @@ public class EverisMain {
 		System.out.println("Hola soy Elias, y esto es un simple commit");
 		
 		System.out.println("Hola, acabamos de crear una rama");
+		
+		System.out.println("Hola, ahora vamos a hacer el merge");
 
 	}
 
