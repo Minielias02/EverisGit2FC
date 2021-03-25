@@ -1,7 +1,7 @@
 package com.everis.main;
 
 /**
- * Formación - GIT
+ * Formacion Dual Ejercicio 3 Elias
  * 
  * @author Everis
  *
@@ -9,15 +9,17 @@ package com.everis.main;
 public class EverisMain {
 
 	/**
-	 * Método principal.
+	 * Metodo principal.
 	 * 
 	 * @param args
 	 */
 	public static void main(String[] args) {
 		
-		System.out.println("Hola a tod@s");
+		System.out.println("Hola a todos");
 		
 		/* INTRODUCIR NUEVOS SALUDOS */
+		
+		System.out.println("Hola soy Elias y esto es un simple commit");
 
 	}
 
